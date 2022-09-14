@@ -6,6 +6,7 @@ import {
 	removeDuplicates,
 	removeTrailingSlash,
 	areSameDomain,
+	isCorrectUrl,
 } from "./utils.js";
 
 export const exploreSite = async (
@@ -25,10 +26,7 @@ export const exploreSite = async (
 		const $ = await getCheerioInstanceFromResource(url);
 		const allLinks = $("a");
 
-		const sameDomainLinks = getSameDomainLinksWithoutTrailingSlash(
-			url,
-			allLinks
-		);
+		const sameDomainLinks = getCorrectLinksWithoutTrailingSlash(url, allLinks);
 		const linksWithoutDuplicates = removeDuplicates(sameDomainLinks);
 
 		urlsMap[url] = linksWithoutDuplicates;
@@ -57,7 +55,7 @@ const getCheerioInstanceFromResource = async (url: string) => {
 	return load(result);
 };
 
-const getSameDomainLinksWithoutTrailingSlash = (
+const getCorrectLinksWithoutTrailingSlash = (
 	url: string,
 	allLinks: Cheerio<Element>
 ) => {
@@ -65,7 +63,9 @@ const getSameDomainLinksWithoutTrailingSlash = (
 		.map((_, el) => {
 			return el.attributes.flatMap((attribute) => {
 				const value = removeTrailingSlash(attribute.value);
-				return attribute.name === "href" && url !== value ? [value] : [];
+				return attribute.name === "href" && url !== value && isCorrectUrl(value)
+					? [value]
+					: [];
 			});
 		})
 		.toArray();

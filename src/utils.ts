@@ -28,3 +28,10 @@ export const hasExtension = (url: string) => {
 export const removeDuplicates = <T>(arr: T[]) => {
 	return Array.from(new Set(arr));
 };
+
+export const isCorrectUrl = (url: string) => {
+	const urlPattern =
+		/(?:https?):\/\/(\w+:?\w*)?(\S+)(:\d+)?(\/|\/([\w#!:.?+=&%!\-/]))?/;
+
+	return urlPattern.test(url);
+};
