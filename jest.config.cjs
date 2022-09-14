@@ -21,5 +21,4 @@ module.exports = {
 		"^(\\.{1,2}/.*)\\.js$": "$1",
 	},
 	clearMocks: true,
-	collectCoverage: true,
 };

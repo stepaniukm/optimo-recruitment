@@ -13,7 +13,8 @@
 		"format": "prettier --write --cache .",
 		"start": "node --loader ts-node/esm index.ts",
 		"prepare": "husky install",
-		"test": "node --loader ts-node/esm './node_modules/.bin/jest' -c='./jest.config.cjs'"
+		"test": "node --loader ts-node/esm './node_modules/.bin/jest' -c='./jest.config.cjs'",
+		"test:coverage": "node --loader ts-node/esm './node_modules/.bin/jest' --coverage -c='./jest.config.cjs'"
 	},
 	"devDependencies": {
 		"@babel/preset-typescript": "^7.18.6",
