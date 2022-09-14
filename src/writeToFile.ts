@@ -5,12 +5,8 @@ export const writeToFile = async (
 	urlsMap: Record<string, string[]>
 ) => {
 	const str = Object.entries(urlsMap).reduce((acc, [page, pageUrls]) => {
-		const butLastItems = pageUrls.slice(0, -1);
-		const lastItem = pageUrls.at(-1);
-
 		acc += `${page}\n\t`;
-		acc += butLastItems.join("\n\t");
-		acc += `\n\t${lastItem}\n\n`;
+		acc += pageUrls.join("\n\t") + "\n\n";
 
 		return acc;
 	}, "");
