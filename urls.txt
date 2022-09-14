@@ -39,7 +39,7 @@ https://bfgames.com/contact:
 	https://bfgames.com
 	https://bfgames.com/about
 	https://clientarea.bfgames.com
-	http://maps.google.com/?q=27 Old Gloucester Street, London, WC1N 3AX
+	http://maps.google.com/?q=27%20Old%20Gloucester%20Street,%20London,%20WC1N%203AX
 	https://bfgames.com/games
 	https://bfgames.com/our-partners
 	https://bfgames.com/responsible-gaming
