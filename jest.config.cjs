@@ -12,7 +12,7 @@ module.exports = {
 		"ts-jest": {
 			tsconfig: "<rootDir>/tsconfig.json",
 			useESM: true,
-		},     
+		},
 	},
 	transform: {},
 	coverageDirectory: "coverage",
