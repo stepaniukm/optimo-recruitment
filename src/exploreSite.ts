@@ -62,7 +62,7 @@ const getCorrectLinksWithoutTrailingSlash = (
 	return allLinks
 		.map((_, el) => {
 			return el.attributes.flatMap((attribute) => {
-				const value = removeTrailingSlash(attribute.value);
+				const value = removeTrailingSlash(attribute.value.trim());
 				return attribute.name === "href" && url !== value && isCorrectUrl(value)
 					? [value]
 					: [];

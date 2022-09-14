@@ -19,6 +19,7 @@ https://bfgames.com:
 	https://bfgames.com/responsible-gaming
 	https://bfgames.com/cookies-policy
 	https://authorisation.mga.org.mt/verification.aspx?lang=EN&company=ccab173d-1b51-456d-b577-f8156d8f9f02&details=1
+	https://registers.gamblingcommission.gov.uk/48761
 	https://bfgames.testowaplatforma123.net/responsible-gaming
 
 https://bfgames.com/about:
@@ -31,6 +32,7 @@ https://bfgames.com/about:
 	https://bfgames.com/responsible-gaming
 	https://bfgames.com/cookies-policy
 	https://authorisation.mga.org.mt/verification.aspx?lang=EN&company=ccab173d-1b51-456d-b577-f8156d8f9f02&details=1
+	https://registers.gamblingcommission.gov.uk/48761
 	https://bfgames.testowaplatforma123.net/responsible-gaming
 
 https://bfgames.com/contact:
@@ -43,6 +45,7 @@ https://bfgames.com/contact:
 	https://bfgames.com/responsible-gaming
 	https://bfgames.com/cookies-policy
 	https://authorisation.mga.org.mt/verification.aspx?lang=EN&company=ccab173d-1b51-456d-b577-f8156d8f9f02&details=1
+	https://registers.gamblingcommission.gov.uk/48761
 	https://bfgames.testowaplatforma123.net/responsible-gaming
 
 https://bfgames.com/games/buffalo-trail-ultra:
@@ -62,6 +65,7 @@ https://bfgames.com/games/buffalo-trail-ultra:
 	https://bfgames.com/responsible-gaming
 	https://bfgames.com/cookies-policy
 	https://authorisation.mga.org.mt/verification.aspx?lang=EN&company=ccab173d-1b51-456d-b577-f8156d8f9f02&details=1
+	https://registers.gamblingcommission.gov.uk/48761
 	https://bfgames.testowaplatforma123.net/responsible-gaming
 
 https://bfgames.com/games/stunning-cash:
@@ -82,6 +86,7 @@ https://bfgames.com/games/stunning-cash:
 	https://bfgames.com/responsible-gaming
 	https://bfgames.com/cookies-policy
 	https://authorisation.mga.org.mt/verification.aspx?lang=EN&company=ccab173d-1b51-456d-b577-f8156d8f9f02&details=1
+	https://registers.gamblingcommission.gov.uk/48761
 	https://bfgames.testowaplatforma123.net/responsible-gaming
 
 https://bfgames.com/games/burning-slots-40:
@@ -90,8 +95,8 @@ https://bfgames.com/games/burning-slots-40:
 	https://clientarea.bfgames.com
 	https://bfgames.com/contact
 	https://demo-vg.beefee.co.uk/gameserver-demo/run?gameId=burning-slots-40&clientId=BFGames
-	https://bfgames.com/games/stunning-cash
 	https://bfgames.com/games/buffalo-trail-ultra
+	https://bfgames.com/games/stunning-cash
 	https://bfgames.com/games/buffalo-trail-lite
 	https://bfgames.com/games/cave-of-gold
 	https://bfgames.com/games/burning-slots-20
@@ -102,6 +107,7 @@ https://bfgames.com/games/burning-slots-40:
 	https://bfgames.com/responsible-gaming
 	https://bfgames.com/cookies-policy
 	https://authorisation.mga.org.mt/verification.aspx?lang=EN&company=ccab173d-1b51-456d-b577-f8156d8f9f02&details=1
+	https://registers.gamblingcommission.gov.uk/48761
 	https://bfgames.testowaplatforma123.net/responsible-gaming
 
 https://bfgames.com/games/cave-of-gold:
@@ -110,8 +116,8 @@ https://bfgames.com/games/cave-of-gold:
 	https://clientarea.bfgames.com
 	https://bfgames.com/contact
 	https://demo-vg.beefee.co.uk/gameserver-demo/run?gameId=cave-of-gold&clientId=BFGames
-	https://bfgames.com/games/stunning-cash
 	https://bfgames.com/games/buffalo-trail-ultra
+	https://bfgames.com/games/stunning-cash
 	https://bfgames.com/games/burning-slots-40
 	https://bfgames.com/games/buffalo-trail-lite
 	https://bfgames.com/games/burning-slots-20
@@ -122,6 +128,7 @@ https://bfgames.com/games/cave-of-gold:
 	https://bfgames.com/responsible-gaming
 	https://bfgames.com/cookies-policy
 	https://authorisation.mga.org.mt/verification.aspx?lang=EN&company=ccab173d-1b51-456d-b577-f8156d8f9f02&details=1
+	https://registers.gamblingcommission.gov.uk/48761
 	https://bfgames.testowaplatforma123.net/responsible-gaming
 
 https://bfgames.com/games/burning-slots-20:
@@ -130,8 +137,8 @@ https://bfgames.com/games/burning-slots-20:
 	https://clientarea.bfgames.com
 	https://bfgames.com/contact
 	https://demo-vg.beefee.co.uk/gameserver-demo/run?gameId=burning-slots-20&clientId=BFGames&locale=EN
-	https://bfgames.com/games/stunning-cash
 	https://bfgames.com/games/buffalo-trail-ultra
+	https://bfgames.com/games/stunning-cash
 	https://bfgames.com/games/burning-slots-40
 	https://bfgames.com/games/buffalo-trail-lite
 	https://bfgames.com/games/cave-of-gold
@@ -142,6 +149,7 @@ https://bfgames.com/games/burning-slots-20:
 	https://bfgames.com/responsible-gaming
 	https://bfgames.com/cookies-policy
 	https://authorisation.mga.org.mt/verification.aspx?lang=EN&company=ccab173d-1b51-456d-b577-f8156d8f9f02&details=1
+	https://registers.gamblingcommission.gov.uk/48761
 	https://bfgames.testowaplatforma123.net/responsible-gaming
 
 https://bfgames.com/games/buffalo-trail-lite:
@@ -150,8 +158,8 @@ https://bfgames.com/games/buffalo-trail-lite:
 	https://clientarea.bfgames.com
 	https://bfgames.com/contact
 	https://demo-vg.beefee.co.uk/gameserver-demo/run?gameId=buffalo-trail-lite&clientId=BFGames
-	https://bfgames.com/games/stunning-cash
 	https://bfgames.com/games/buffalo-trail-ultra
+	https://bfgames.com/games/stunning-cash
 	https://bfgames.com/games/burning-slots-40
 	https://bfgames.com/games/cave-of-gold
 	https://bfgames.com/games/burning-slots-20
@@ -162,6 +170,7 @@ https://bfgames.com/games/buffalo-trail-lite:
 	https://bfgames.com/responsible-gaming
 	https://bfgames.com/cookies-policy
 	https://authorisation.mga.org.mt/verification.aspx?lang=EN&company=ccab173d-1b51-456d-b577-f8156d8f9f02&details=1
+	https://registers.gamblingcommission.gov.uk/48761
 	https://bfgames.testowaplatforma123.net/responsible-gaming
 
 https://bfgames.com/games/chicken-madness:
@@ -170,8 +179,8 @@ https://bfgames.com/games/chicken-madness:
 	https://clientarea.bfgames.com
 	https://bfgames.com/contact
 	https://demo-vg.beefee.co.uk/gameserver-demo/run?gameId=chicken-madness&clientId=BFGames
-	https://bfgames.com/games/stunning-cash
 	https://bfgames.com/games/buffalo-trail-ultra
+	https://bfgames.com/games/stunning-cash
 	https://bfgames.com/games/burning-slots-40
 	https://bfgames.com/games/buffalo-trail-lite
 	https://bfgames.com/games/cave-of-gold
@@ -182,6 +191,7 @@ https://bfgames.com/games/chicken-madness:
 	https://bfgames.com/responsible-gaming
 	https://bfgames.com/cookies-policy
 	https://authorisation.mga.org.mt/verification.aspx?lang=EN&company=ccab173d-1b51-456d-b577-f8156d8f9f02&details=1
+	https://registers.gamblingcommission.gov.uk/48761
 	https://bfgames.testowaplatforma123.net/responsible-gaming
 
 https://bfgames.com/games/squid-from-the-deep:
@@ -190,8 +200,8 @@ https://bfgames.com/games/squid-from-the-deep:
 	https://clientarea.bfgames.com
 	https://bfgames.com/contact
 	https://demo-vg.beefee.co.uk/games/run?gameId=squid-from-the-deep&clientId=testClient
-	https://bfgames.com/games/stunning-cash
 	https://bfgames.com/games/buffalo-trail-ultra
+	https://bfgames.com/games/stunning-cash
 	https://bfgames.com/games/burning-slots-40
 	https://bfgames.com/games/buffalo-trail-lite
 	https://bfgames.com/games/cave-of-gold
@@ -202,6 +212,7 @@ https://bfgames.com/games/squid-from-the-deep:
 	https://bfgames.com/responsible-gaming
 	https://bfgames.com/cookies-policy
 	https://authorisation.mga.org.mt/verification.aspx?lang=EN&company=ccab173d-1b51-456d-b577-f8156d8f9f02&details=1
+	https://registers.gamblingcommission.gov.uk/48761
 	https://bfgames.testowaplatforma123.net/responsible-gaming
 
 https://bfgames.com/games/burning-slots:
@@ -210,8 +221,8 @@ https://bfgames.com/games/burning-slots:
 	https://clientarea.bfgames.com
 	https://bfgames.com/contact
 	https://demo-vg.beefee.co.uk/gameserver-demo/run?gameId=burning-slots&clientId=BFGames
-	https://bfgames.com/games/stunning-cash
 	https://bfgames.com/games/buffalo-trail-ultra
+	https://bfgames.com/games/stunning-cash
 	https://bfgames.com/games/burning-slots-40
 	https://bfgames.com/games/buffalo-trail-lite
 	https://bfgames.com/games/cave-of-gold
@@ -223,6 +234,7 @@ https://bfgames.com/games/burning-slots:
 	https://bfgames.com/responsible-gaming
 	https://bfgames.com/cookies-policy
 	https://authorisation.mga.org.mt/verification.aspx?lang=EN&company=ccab173d-1b51-456d-b577-f8156d8f9f02&details=1
+	https://registers.gamblingcommission.gov.uk/48761
 	https://bfgames.testowaplatforma123.net/responsible-gaming
 
 https://bfgames.com/games/buffalo-trail:
@@ -231,8 +243,8 @@ https://bfgames.com/games/buffalo-trail:
 	https://clientarea.bfgames.com
 	https://bfgames.com/contact
 	https://demo-vg.beefee.co.uk/gameserver-demo/run?gameId=buffalo-trail&clientId=BFGames
-	https://bfgames.com/games/stunning-cash
 	https://bfgames.com/games/buffalo-trail-ultra
+	https://bfgames.com/games/stunning-cash
 	https://bfgames.com/games/burning-slots-40
 	https://bfgames.com/games/buffalo-trail-lite
 	https://bfgames.com/games/cave-of-gold
@@ -244,6 +256,7 @@ https://bfgames.com/games/buffalo-trail:
 	https://bfgames.com/responsible-gaming
 	https://bfgames.com/cookies-policy
 	https://authorisation.mga.org.mt/verification.aspx?lang=EN&company=ccab173d-1b51-456d-b577-f8156d8f9f02&details=1
+	https://registers.gamblingcommission.gov.uk/48761
 	https://bfgames.testowaplatforma123.net/responsible-gaming
 
 https://bfgames.com/games/wild-jack-remastered:
@@ -252,8 +265,8 @@ https://bfgames.com/games/wild-jack-remastered:
 	https://clientarea.bfgames.com
 	https://bfgames.com/contact
 	https://demo-vg.beefee.co.uk/gameserver-demo/run?gameId=wild-jack-remastered&clientId=BFGames
-	https://bfgames.com/games/stunning-cash
 	https://bfgames.com/games/buffalo-trail-ultra
+	https://bfgames.com/games/stunning-cash
 	https://bfgames.com/games/burning-slots-40
 	https://bfgames.com/games/buffalo-trail-lite
 	https://bfgames.com/games/cave-of-gold
@@ -265,6 +278,7 @@ https://bfgames.com/games/wild-jack-remastered:
 	https://bfgames.com/responsible-gaming
 	https://bfgames.com/cookies-policy
 	https://authorisation.mga.org.mt/verification.aspx?lang=EN&company=ccab173d-1b51-456d-b577-f8156d8f9f02&details=1
+	https://registers.gamblingcommission.gov.uk/48761
 	https://bfgames.testowaplatforma123.net/responsible-gaming
 
 https://bfgames.com/games/cave-of-fortune:
@@ -273,8 +287,8 @@ https://bfgames.com/games/cave-of-fortune:
 	https://clientarea.bfgames.com
 	https://bfgames.com/contact
 	https://demo-vg.beefee.co.uk/gameserver-demo/run?gameId=cave-of-fortune&clientId=BFGames
-	https://bfgames.com/games/stunning-cash
 	https://bfgames.com/games/buffalo-trail-ultra
+	https://bfgames.com/games/stunning-cash
 	https://bfgames.com/games/burning-slots-40
 	https://bfgames.com/games/buffalo-trail-lite
 	https://bfgames.com/games/cave-of-gold
@@ -286,6 +300,7 @@ https://bfgames.com/games/cave-of-fortune:
 	https://bfgames.com/responsible-gaming
 	https://bfgames.com/cookies-policy
 	https://authorisation.mga.org.mt/verification.aspx?lang=EN&company=ccab173d-1b51-456d-b577-f8156d8f9f02&details=1
+	https://registers.gamblingcommission.gov.uk/48761
 	https://bfgames.testowaplatforma123.net/responsible-gaming
 
 https://bfgames.com/games:
@@ -293,8 +308,8 @@ https://bfgames.com/games:
 	https://bfgames.com/about
 	https://clientarea.bfgames.com
 	https://bfgames.com/contact
-	https://bfgames.com/games/stunning-cash
 	https://bfgames.com/games/buffalo-trail-ultra
+	https://bfgames.com/games/stunning-cash
 	https://bfgames.com/games/burning-slots-40
 	https://bfgames.com/games/buffalo-trail-lite
 	https://bfgames.com/games/cave-of-gold
@@ -309,6 +324,7 @@ https://bfgames.com/games:
 	https://bfgames.com/responsible-gaming
 	https://bfgames.com/cookies-policy
 	https://authorisation.mga.org.mt/verification.aspx?lang=EN&company=ccab173d-1b51-456d-b577-f8156d8f9f02&details=1
+	https://registers.gamblingcommission.gov.uk/48761
 	https://bfgames.testowaplatforma123.net/responsible-gaming
 
 https://bfgames.com/our-partners:
@@ -440,12 +456,13 @@ https://bfgames.com/our-partners:
 	https://www.slotswise.com/online-slots/bf-games
 	https://gamblorium.se/online-casinon/bf-games
 	https://realcasinoscanada.com
-	https://gamblorium.de/online-casinos/bf-games/ 
-	https://gamblorium.com/nz/casinos/bf-games/ 
+	https://gamblorium.de/online-casinos/bf-games
+	https://gamblorium.com/nz/casinos/bf-games
 	https://bfgames.com/games
 	https://bfgames.com/responsible-gaming
 	https://bfgames.com/cookies-policy
 	https://authorisation.mga.org.mt/verification.aspx?lang=EN&company=ccab173d-1b51-456d-b577-f8156d8f9f02&details=1
+	https://registers.gamblingcommission.gov.uk/48761
 	https://bfgames.testowaplatforma123.net/responsible-gaming
 
 https://bfgames.com/responsible-gaming:
@@ -457,6 +474,7 @@ https://bfgames.com/responsible-gaming:
 	https://bfgames.com/our-partners
 	https://bfgames.com/cookies-policy
 	https://authorisation.mga.org.mt/verification.aspx?lang=EN&company=ccab173d-1b51-456d-b577-f8156d8f9f02&details=1
+	https://registers.gamblingcommission.gov.uk/48761
 	https://bfgames.testowaplatforma123.net/responsible-gaming
 
 https://bfgames.com/cookies-policy:
@@ -469,5 +487,6 @@ https://bfgames.com/cookies-policy:
 	https://bfgames.com/our-partners
 	https://bfgames.com/responsible-gaming
 	https://authorisation.mga.org.mt/verification.aspx?lang=EN&company=ccab173d-1b51-456d-b577-f8156d8f9f02&details=1
+	https://registers.gamblingcommission.gov.uk/48761
 	https://bfgames.testowaplatforma123.net/responsible-gaming
 
