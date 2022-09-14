@@ -4,8 +4,8 @@ import { exploreSite } from "./exploreSite.js";
 
 describe("exploreSite", () => {
 	beforeEach(async () => {
-		const index = await readFile("./__TEST__/exampleSite/index.html", "utf-8");
-		const asd = await readFile("./__TEST__/exampleSite/asd.html", "utf-8");
+		const index = await readFile("./__tests__/exampleSite/index.html", "utf-8");
+		const asd = await readFile("./__tests__/exampleSite/asd.html", "utf-8");
 
 		nock("https://example.com")
 			.get("/")

@@ -2,5 +2,6 @@
 	"extends": "@tsconfig/node18-strictest-esm/tsconfig.json",
 	"compilerOptions": {
 		"types": ["node", "jest"]
-	}
+	},
+	"exclude": ["__tests__"]
 }

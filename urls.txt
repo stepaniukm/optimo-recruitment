@@ -1,4 +1,4 @@
-https://bfgames.com:
+https://bfgames.com
 	https://bfgames.com/about
 	https://clientarea.bfgames.com
 	https://bfgames.com/contact
@@ -22,7 +22,7 @@ https://bfgames.com:
 	https://registers.gamblingcommission.gov.uk/48761
 	https://bfgames.testowaplatforma123.net/responsible-gaming
 
-https://bfgames.com/about:
+https://bfgames.com/about
 	https://bfgames.com
 	https://clientarea.bfgames.com
 	https://bfgames.com/contact
@@ -35,7 +35,7 @@ https://bfgames.com/about:
 	https://registers.gamblingcommission.gov.uk/48761
 	https://bfgames.testowaplatforma123.net/responsible-gaming
 
-https://bfgames.com/contact:
+https://bfgames.com/contact
 	https://bfgames.com
 	https://bfgames.com/about
 	https://clientarea.bfgames.com
@@ -48,7 +48,7 @@ https://bfgames.com/contact:
 	https://registers.gamblingcommission.gov.uk/48761
 	https://bfgames.testowaplatforma123.net/responsible-gaming
 
-https://bfgames.com/games/buffalo-trail-ultra:
+https://bfgames.com/games/buffalo-trail-ultra
 	https://bfgames.com
 	https://bfgames.com/about
 	https://clientarea.bfgames.com
@@ -68,7 +68,7 @@ https://bfgames.com/games/buffalo-trail-ultra:
 	https://registers.gamblingcommission.gov.uk/48761
 	https://bfgames.testowaplatforma123.net/responsible-gaming
 
-https://bfgames.com/games/stunning-cash:
+https://bfgames.com/games/stunning-cash
 	https://bfgames.com
 	https://bfgames.com/about
 	https://clientarea.bfgames.com
@@ -89,7 +89,7 @@ https://bfgames.com/games/stunning-cash:
 	https://registers.gamblingcommission.gov.uk/48761
 	https://bfgames.testowaplatforma123.net/responsible-gaming
 
-https://bfgames.com/games/burning-slots-40:
+https://bfgames.com/games/burning-slots-40
 	https://bfgames.com
 	https://bfgames.com/about
 	https://clientarea.bfgames.com
@@ -110,7 +110,7 @@ https://bfgames.com/games/burning-slots-40:
 	https://registers.gamblingcommission.gov.uk/48761
 	https://bfgames.testowaplatforma123.net/responsible-gaming
 
-https://bfgames.com/games/cave-of-gold:
+https://bfgames.com/games/cave-of-gold
 	https://bfgames.com
 	https://bfgames.com/about
 	https://clientarea.bfgames.com
@@ -131,7 +131,7 @@ https://bfgames.com/games/cave-of-gold:
 	https://registers.gamblingcommission.gov.uk/48761
 	https://bfgames.testowaplatforma123.net/responsible-gaming
 
-https://bfgames.com/games/burning-slots-20:
+https://bfgames.com/games/burning-slots-20
 	https://bfgames.com
 	https://bfgames.com/about
 	https://clientarea.bfgames.com
@@ -152,7 +152,7 @@ https://bfgames.com/games/burning-slots-20:
 	https://registers.gamblingcommission.gov.uk/48761
 	https://bfgames.testowaplatforma123.net/responsible-gaming
 
-https://bfgames.com/games/buffalo-trail-lite:
+https://bfgames.com/games/buffalo-trail-lite
 	https://bfgames.com
 	https://bfgames.com/about
 	https://clientarea.bfgames.com
@@ -173,7 +173,7 @@ https://bfgames.com/games/buffalo-trail-lite:
 	https://registers.gamblingcommission.gov.uk/48761
 	https://bfgames.testowaplatforma123.net/responsible-gaming
 
-https://bfgames.com/games/chicken-madness:
+https://bfgames.com/games/chicken-madness
 	https://bfgames.com
 	https://bfgames.com/about
 	https://clientarea.bfgames.com
@@ -194,7 +194,7 @@ https://bfgames.com/games/chicken-madness:
 	https://registers.gamblingcommission.gov.uk/48761
 	https://bfgames.testowaplatforma123.net/responsible-gaming
 
-https://bfgames.com/games/squid-from-the-deep:
+https://bfgames.com/games/squid-from-the-deep
 	https://bfgames.com
 	https://bfgames.com/about
 	https://clientarea.bfgames.com
@@ -215,7 +215,7 @@ https://bfgames.com/games/squid-from-the-deep:
 	https://registers.gamblingcommission.gov.uk/48761
 	https://bfgames.testowaplatforma123.net/responsible-gaming
 
-https://bfgames.com/games/burning-slots:
+https://bfgames.com/games/burning-slots
 	https://bfgames.com
 	https://bfgames.com/about
 	https://clientarea.bfgames.com
@@ -237,7 +237,7 @@ https://bfgames.com/games/burning-slots:
 	https://registers.gamblingcommission.gov.uk/48761
 	https://bfgames.testowaplatforma123.net/responsible-gaming
 
-https://bfgames.com/games/buffalo-trail:
+https://bfgames.com/games/buffalo-trail
 	https://bfgames.com
 	https://bfgames.com/about
 	https://clientarea.bfgames.com
@@ -259,7 +259,7 @@ https://bfgames.com/games/buffalo-trail:
 	https://registers.gamblingcommission.gov.uk/48761
 	https://bfgames.testowaplatforma123.net/responsible-gaming
 
-https://bfgames.com/games/wild-jack-remastered:
+https://bfgames.com/games/wild-jack-remastered
 	https://bfgames.com
 	https://bfgames.com/about
 	https://clientarea.bfgames.com
@@ -281,7 +281,7 @@ https://bfgames.com/games/wild-jack-remastered:
 	https://registers.gamblingcommission.gov.uk/48761
 	https://bfgames.testowaplatforma123.net/responsible-gaming
 
-https://bfgames.com/games/cave-of-fortune:
+https://bfgames.com/games/cave-of-fortune
 	https://bfgames.com
 	https://bfgames.com/about
 	https://clientarea.bfgames.com
@@ -303,7 +303,7 @@ https://bfgames.com/games/cave-of-fortune:
 	https://registers.gamblingcommission.gov.uk/48761
 	https://bfgames.testowaplatforma123.net/responsible-gaming
 
-https://bfgames.com/games:
+https://bfgames.com/games
 	https://bfgames.com
 	https://bfgames.com/about
 	https://clientarea.bfgames.com
@@ -327,7 +327,7 @@ https://bfgames.com/games:
 	https://registers.gamblingcommission.gov.uk/48761
 	https://bfgames.testowaplatforma123.net/responsible-gaming
 
-https://bfgames.com/our-partners:
+https://bfgames.com/our-partners
 	https://bfgames.com
 	https://bfgames.com/about
 	https://clientarea.bfgames.com
@@ -465,7 +465,7 @@ https://bfgames.com/our-partners:
 	https://registers.gamblingcommission.gov.uk/48761
 	https://bfgames.testowaplatforma123.net/responsible-gaming
 
-https://bfgames.com/responsible-gaming:
+https://bfgames.com/responsible-gaming
 	https://bfgames.com
 	https://bfgames.com/about
 	https://clientarea.bfgames.com
@@ -477,7 +477,7 @@ https://bfgames.com/responsible-gaming:
 	https://registers.gamblingcommission.gov.uk/48761
 	https://bfgames.testowaplatforma123.net/responsible-gaming
 
-https://bfgames.com/cookies-policy:
+https://bfgames.com/cookies-policy
 	https://bfgames.com
 	https://bfgames.com/about
 	https://clientarea.bfgames.com

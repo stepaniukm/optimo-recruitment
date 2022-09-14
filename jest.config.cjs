@@ -15,7 +15,7 @@ module.exports = {
 		},
 	},
 	transform: {},
-	coverageDirectory: "coverage",
+	coverageDirectory: "<rootDir>/__tests__/coverage",
 	testMatch: ["**/*.spec.ts", "**/*.test.ts"],
 	moduleNameMapper: {
 		"^(\\.{1,2}/.*)\\.js$": "$1",
