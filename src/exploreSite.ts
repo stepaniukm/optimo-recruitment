@@ -17,17 +17,17 @@ export const exploreSite = async (
 	if (urlsToCheck.length === 0) {
 		return urlsMap;
 	}
-
 	const newLinks: string[] = [];
-	const withoutVisited = removeVisitedUrls(urlsToCheck, visitedLinks);
 
-	for (const url of withoutVisited) {
+	for (const url of urlsToCheck.map(removeTrailingSlash)) {
 		consola.info(`Checking: ${url}`);
 		const $ = await getCheerioInstanceFromResource(url);
 		const allLinks = $("a");
 
 		const sameDomainLinks = getCorrectLinksWithoutTrailingSlash(url, allLinks);
 		const linksWithoutDuplicates = removeDuplicates(sameDomainLinks);
+
+		consola.success(`Found ${linksWithoutDuplicates.length} links on page`);
 
 		urlsMap[url] = linksWithoutDuplicates;
 		visitedLinks.push(url);
@@ -43,8 +43,13 @@ export const exploreSite = async (
 	}
 
 	const newLinksWithoutDuplicates = removeDuplicates(newLinks);
+	const withoutVisited = removeVisitedUrls(
+		newLinksWithoutDuplicates,
+		visitedLinks
+	);
 
-	return exploreSite(newLinksWithoutDuplicates, visitedLinks, urlsMap);
+	consola.info(`Found ${withoutVisited.length} new links`);
+	return exploreSite(withoutVisited, visitedLinks, urlsMap);
 };
 
 const removeVisitedUrls = (urls: string[], visitedUrls: string[]) =>
@@ -63,9 +68,12 @@ const getCorrectLinksWithoutTrailingSlash = (
 		.map((_, el) => {
 			return el.attributes.flatMap((attribute) => {
 				const value = removeTrailingSlash(attribute.value.trim());
-				return attribute.name === "href" && url !== value && isCorrectUrl(value)
-					? [value]
-					: [];
+
+				if (attribute.name === "href" && url !== value && isCorrectUrl(value)) {
+					return [value];
+				}
+
+				return [];
 			});
 		})
 		.toArray();
