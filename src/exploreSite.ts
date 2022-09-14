@@ -7,6 +7,7 @@ import {
 	removeTrailingSlash,
 	areSameDomain,
 	isCorrectUrl,
+	encodeURIIfNecessary,
 } from "./utils.js";
 
 export const exploreSite = async (
@@ -68,17 +69,16 @@ const getCorrectLinksWithoutTrailingSlash = (
 		.map((_, el) => {
 			return el.attributes.flatMap((attribute) => {
 				const trimmed = attribute.value.trim();
-
-				const decodedUrl = decodeURI(trimmed);
-				const wasAlreadyEncoded = decodedUrl !== trimmed;
 				const withoutTrailingSlash = removeTrailingSlash(trimmed);
 
-				const value = wasAlreadyEncoded
-					? withoutTrailingSlash
-					: encodeURI(withoutTrailingSlash);
+				const encoded = encodeURIIfNecessary(withoutTrailingSlash);
 
-				if (attribute.name === "href" && url !== value && isCorrectUrl(value)) {
-					return [value];
+				if (
+					attribute.name === "href" &&
+					url !== withoutTrailingSlash &&
+					isCorrectUrl(trimmed)
+				) {
+					return [encoded];
 				}
 
 				return [];

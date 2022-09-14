@@ -2,7 +2,7 @@ export const removeTrailingSlash = (str: string) => {
 	return str.replace(/\/+$/, "");
 };
 
-function getDomain(url: string) {
+export const getDomain = (url: string) => {
 	const prefix = /^https?:\/\//i;
 	const domain = /^[^/:]+/;
 
@@ -14,7 +14,7 @@ function getDomain(url: string) {
 		return match[0];
 	}
 	return null;
-}
+};
 
 export const areSameDomain = (url1: string, url2: string) => {
 	return getDomain(url1) === getDomain(url2);
@@ -34,4 +34,11 @@ export const isCorrectUrl = (url: string) => {
 		/(?:https?):\/\/(\w+:?\w*)?(\S+)(:\d+)?(\/|\/([\w#!:.?+=&%!\-/]))?/;
 
 	return urlPattern.test(url);
+};
+
+export const encodeURIIfNecessary = (url: string) => {
+	const decodedUrl = decodeURI(url);
+	const wasAlreadyEncoded = decodedUrl !== url;
+
+	return wasAlreadyEncoded ? url : encodeURI(url);
 };
