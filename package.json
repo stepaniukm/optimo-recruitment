@@ -1,0 +1,33 @@
+{
+	"name": "optimo-recruitment",
+	"version": "1.0.0",
+	"description": "Simple recruitment task",
+	"main": "index.ts",
+	"repository": "git@github.com:stepaniukm/optimo-recruitment.git",
+	"author": "Mateusz Stepaniuk <stepaniuk.m05@gmail.com>",
+	"license": "MIT",
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"lint": "eslint . --ext .ts",
+		"format": "prettier --write --cache .",
+		"start": "node --loader ts-node/esm index.ts",
+		"prepare": "husky install"
+	},
+	"devDependencies": {
+		"@tsconfig/node18-strictest-esm": "^1.0.1",
+		"@typescript-eslint/eslint-plugin": "^5.37.0",
+		"@typescript-eslint/parser": "^5.37.0",
+		"eslint": "^8.23.1",
+		"ts-node": "^10.9.1",
+		"typescript": "^4.8.3",
+		"husky": "^8.0.0"
+	},
+	"dependencies": {
+		"@types/node": "^18.7.16",
+		"cheerio": "^1.0.0-rc.12",
+		"consola": "^2.15.3",
+		"node-fetch": "^3.2.10",
+		"prettier": "^2.7.1"
+	}
+}
