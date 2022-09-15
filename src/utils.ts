@@ -36,7 +36,7 @@ export const isCorrectUrl = (url: string) => {
 	return urlPattern.test(url);
 };
 
-export const encodeURIIfNecessary = (url: string) => {
+export const tryEncodeURI = (url: string) => {
 	const decodedUrl = decodeURI(url);
 	const wasAlreadyEncoded = decodedUrl !== url;
 

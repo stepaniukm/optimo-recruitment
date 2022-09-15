@@ -7,7 +7,7 @@ import {
 	removeTrailingSlash,
 	areSameDomain,
 	isCorrectUrl,
-	encodeURIIfNecessary,
+	tryEncodeURI,
 } from "./utils.js";
 
 export const exploreSite = async (
@@ -18,9 +18,10 @@ export const exploreSite = async (
 	if (urlsToCheck.length === 0) {
 		return urlsMap;
 	}
-	const newLinks: string[] = [];
+	const linksToCrawl: string[] = [];
+	const urlsWithoutTrailingSlash = urlsToCheck.map(removeTrailingSlash);
 
-	for (const url of urlsToCheck.map(removeTrailingSlash)) {
+	for (const url of urlsWithoutTrailingSlash) {
 		consola.info(`Checking: ${url}`);
 		const $ = await getCheerioInstanceFromResource(url);
 		const allLinks = $("a");
@@ -33,19 +34,19 @@ export const exploreSite = async (
 		urlsMap[url] = linksWithoutDuplicates;
 		visitedLinks.push(url);
 
-		const newPreparedLinks = linksWithoutDuplicates.filter(
+		const linksToCrawlFromUrl = linksWithoutDuplicates.filter(
 			(el) =>
 				!hasExtension(el) &&
 				areSameDomain(url, el) &&
 				!visitedLinks.includes(el)
 		);
 
-		newLinks.push(...newPreparedLinks);
+		linksToCrawl.push(...linksToCrawlFromUrl);
 	}
 
-	const newLinksWithoutDuplicates = removeDuplicates(newLinks);
+	const linksToCrawlWithoutDuplicates = removeDuplicates(linksToCrawl);
 	const withoutVisited = removeVisitedUrls(
-		newLinksWithoutDuplicates,
+		linksToCrawlWithoutDuplicates,
 		visitedLinks
 	);
 
@@ -71,7 +72,7 @@ const getCorrectLinksWithoutTrailingSlash = (
 				const trimmed = attribute.value.trim();
 				const withoutTrailingSlash = removeTrailingSlash(trimmed);
 
-				const encoded = encodeURIIfNecessary(withoutTrailingSlash);
+				const encoded = tryEncodeURI(withoutTrailingSlash);
 
 				if (
 					attribute.name === "href" &&

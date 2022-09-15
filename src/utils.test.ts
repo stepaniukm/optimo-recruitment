@@ -1,6 +1,6 @@
 import {
 	areSameDomain,
-	encodeURIIfNecessary,
+	tryEncodeURI,
 	getDomain,
 	hasExtension,
 	isCorrectUrl,
@@ -135,17 +135,17 @@ describe("Utils", () => {
 		});
 	});
 
-	describe("encodeURIIfNecessary", () => {
+	describe("tryEncodeURI", () => {
 		it("encodes url if necessary", () => {
 			const url = "https://example.com/тест";
 			const encodedUrl = "https://example.com/%D1%82%D0%B5%D1%81%D1%82";
 
-			expect(encodeURIIfNecessary(url)).toBe(encodedUrl);
+			expect(tryEncodeURI(url)).toBe(encodedUrl);
 		});
 		it("does not encode url if not necessary", () => {
 			const url = "https://example.com/%D1%82%D0%B5%D1%81%D1%82";
 
-			expect(encodeURIIfNecessary(url)).toBe(url);
+			expect(tryEncodeURI(url)).toBe(url);
 		});
 	});
 });
