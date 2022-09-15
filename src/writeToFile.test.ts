@@ -22,8 +22,6 @@ describe("writeToFile", () => {
 		const expected =
 			"https://example.com\n\thttps://example.com/asd\n\thttps://example.com/asdqweerty\n\nhttps://example.com/asd\n\thttps://example.com/qwe\n\n";
 
-		console.log(expected);
-
 		expect(content).toEqual(expected);
 	});
 });
